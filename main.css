@@ -1,0 +1,30 @@
+
+h1 { font-family: Verdana;
+	color: blue;	
+	fond-size: 48px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-decoration: underline;
+	text-align: center;
+ }
+ 
+ h2 { font-family:	Arial;
+ 	color: purple;
+ 	font-size: 36px;
+ 	font-weight: bold;
+ 	 }
+ p { font-size: 18px;
+ 	font-family: Verdana;
+  }
+ h3 {
+ 	color: green;
+ 	font-size: 24px;
+ }
+ h4 {
+ 	text-indent: 20px;
+ }
+ li	{
+ 	font-size: 18px;
+ 	font-family: Verdana;
+ 	text-indent: 20px;
+ }
